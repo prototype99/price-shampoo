@@ -1,0 +1,49 @@
+ID;PGnumeric;N;E
+P;PGeneral
+P;ESans;M200
+F;P0;SM1;C1
+F;P0;SM1;C2
+F;P0;SM1;C3
+F;P0;SM1;C4
+F;P0;SM1;C5
+F;FD0R;P0;SM1;Y1;X1
+F;FD0C;P0;SM1;X2
+F;P0;SM1;X3
+F;P0;SM1;X4
+F;FD0L;P0;SM1;X5
+F;FD0R;P0;SM1;Y2;X1
+F;FD0C;P0;SM1;X2
+F;P0;SM1;X3
+F;P0;SM1;X4
+F;P0;SM1;X5
+F;FD0R;P0;SM1;Y3;X1
+F;FD0C;P0;SM1;X2
+F;P0;SM1;X3
+F;P0;SM1;X4
+F;P0;SM1;X5
+F;FD0R;P0;SM1;Y4;X1
+F;FD0C;P0;SM1;X2
+F;P0;SM1;X3
+F;P0;SM1;X4
+F;FD0L;P0;SM1;X5
+F;W1 1 7
+F;W2 2 7
+F;W3 3 5
+F;W4 4 12
+F;W5 5 79
+B;Y4;X5;D0 0 3 4
+O;A100 0.001000;L;V0
+C;Y1;X1;K"brand"
+C;X2;K"type"
+C;X3;K"sulfate"
+C;X4;K"dmdm hydantoin"
+C;X5;K"url"
+C;Y2;X1;K"tresemme"
+C;X2;K"botanique"
+C;X5;K"https://www.tresemme.com/us/en/products/shampoo/botanique-hemp-hydration-sulfate-free-shampoo-for-dry-hair.html"
+C;Y3;X1;K"dove"
+C;X2;K"daily"
+C;Y4;X1;K"tresemme"
+C;X2;K"moisture"
+C;X5;K"https://www.tresemme.com/us/en/products/shampoo/rich-moisture-shampoo-for-dry-hair.html"
+E
