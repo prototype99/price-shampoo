@@ -2081,7 +2081,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y231;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2090,7 +2090,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y232;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2108,7 +2108,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y234;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2117,7 +2117,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y235;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2126,7 +2126,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y236;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2144,7 +2144,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y238;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2171,7 +2171,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y241;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2180,7 +2180,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y242;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2378,7 +2378,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y264;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2387,7 +2387,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y265;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2396,7 +2396,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y266;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2432,7 +2432,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y270;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2441,7 +2441,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y271;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2450,7 +2450,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y272;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2540,7 +2540,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y282;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2549,7 +2549,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y283;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2594,7 +2594,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y288;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2603,7 +2603,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y289;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2612,7 +2612,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y290;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2621,7 +2621,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y291;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2639,7 +2639,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y293;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2648,7 +2648,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y294;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2702,7 +2702,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y300;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2729,7 +2729,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;P2;SM1;X9
+F;FD0L;P2;SM1;X9
 F;FD0R;P2;SM1;Y303;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2837,7 +2837,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y315;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2846,7 +2846,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y316;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2864,7 +2864,7 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y318;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
@@ -2873,8 +2873,53 @@ F;FD0C;P2;SM1;X5
 F;FD0C;P2;SM1;X6
 F;FD0C;P0;SM1;X7
 F;FD0C;P1;SM1;X8
-F;FD0L;P2;SM1;X9
+F;P2;SM1;X9
 F;FD0R;P2;SM1;Y319;X1
+F;FD0C;P2;SM1;X2
+F;FD0C;P2;SM1;X3
+F;FD0C;P2;SM1;X4
+F;FD0C;P2;SM1;X5
+F;FD0C;P2;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P1;SM1;X8
+F;FD0L;P2;SM1;X9
+F;FD0R;P2;SM1;Y320;X1
+F;FD0C;P2;SM1;X2
+F;FD0C;P2;SM1;X3
+F;FD0C;P2;SM1;X4
+F;FD0C;P2;SM1;X5
+F;FD0C;P2;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P1;SM1;X8
+F;FD0L;P2;SM1;X9
+F;FD0R;P2;SM1;Y321;X1
+F;FD0C;P2;SM1;X2
+F;FD0C;P2;SM1;X3
+F;FD0C;P2;SM1;X4
+F;FD0C;P2;SM1;X5
+F;FD0C;P2;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P1;SM1;X8
+F;P2;SM1;X9
+F;FD0R;P2;SM1;Y322;X1
+F;FD0C;P2;SM1;X2
+F;FD0C;P2;SM1;X3
+F;FD0C;P2;SM1;X4
+F;FD0C;P2;SM1;X5
+F;FD0C;P2;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P1;SM1;X8
+F;FD0L;P2;SM1;X9
+F;FD0R;P2;SM1;Y323;X1
+F;FD0C;P2;SM1;X2
+F;FD0C;P2;SM1;X3
+F;FD0C;P2;SM1;X4
+F;FD0C;P2;SM1;X5
+F;FD0C;P2;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P1;SM1;X8
+F;FD0L;P2;SM1;X9
+F;FD0R;P2;SM1;Y324;X1
 F;FD0C;P2;SM1;X2
 F;FD0C;P2;SM1;X3
 F;FD0C;P2;SM1;X4
@@ -2892,10 +2937,10 @@ F;W6 6 3
 F;W7 7 6
 F;W8 8 15
 F;W9 9 68
-F;M270;R317
-F;M270;R318
-F;M270;R319
-B;Y319;X9;D0 0 318 8
+F;M270;R322
+F;M270;R323
+F;M270;R324
+B;Y324;X9;D0 0 323 8
 O;A100 0.001000;L;V0
 C;Y1;X1;K"brand"
 C;X2;K"type"
@@ -3555,15 +3600,19 @@ C;Y145;X1;K"l'oreal professionnel"
 C;X2;K"vitamino colour"
 C;X3;K"y"
 C;X4;K"?"
-C;Y146;X1;K"love beauty & planet"
+C;Y146;X1;K"l'oreal professionnel"
+C;X2;K"volumetry"
+C;X3;K"y"
+C;X4;K"?"
+C;Y147;X1;K"love beauty & planet"
 C;X2;K"hope & repair"
 C;X3;K"y"
 C;X4;K"?"
-C;Y147;X1;K"lisa's hair elixir"
+C;Y148;X1;K"lisa's hair elixir"
 C;X2;K"scalp & hair"
 C;X3;K"?"
 C;X4;K"y"
-C;Y148;X1;K"living proof"
+C;Y149;X1;K"living proof"
 C;X2;K"no frizz"
 C;X3;K"n"
 C;X4;K"n"
@@ -3572,7 +3621,7 @@ C;X6;K1
 C;X7;K18.29
 C;X8;K0.0775;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B002IJKW54"
-C;Y149;X1;K"lonstin"
+C;Y150;X1;K"lonstin"
 C;X2;K"moroccan argan oil"
 C;X3;K"n"
 C;X4;K"n"
@@ -3581,7 +3630,7 @@ C;X6;K1
 C;X7;K13.99
 C;X8;K0.02798;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B08M19BCQN"
-C;Y150;X1;K"mancave"
+C;Y151;X1;K"mancave"
 C;X2;K"caffeine"
 C;X3;K"n"
 C;X4;K"n"
@@ -3590,7 +3639,7 @@ C;X6;K1
 C;X7;K8.8
 C;X8;K0.0176;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07VHKW614"
-C;Y151;X1;K"maria nila"
+C;Y152;X1;K"maria nila"
 C;X2;K"true soft"
 C;X3;K"n"
 C;X4;K"n"
@@ -3599,15 +3648,15 @@ C;X6;K1
 C;X7;K17.99
 C;X8;K0.051399999999999994;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B01N8X4SU4"
-C;Y152;X1;K"mason & miller"
+C;Y153;X1;K"mason & miller"
 C;X2;K"revitalising"
 C;X3;K"y"
 C;X4;K"n"
-C;Y153;X1;K"matrix"
+C;Y154;X1;K"matrix"
 C;X2;K"a curl can dream"
 C;X3;K"y"
 C;X4;K"?"
-C;Y154;X1;K"maui moisture"
+C;Y155;X1;K"maui moisture"
 C;X2;K"curl quench"
 C;X3;K"n"
 C;X4;K"n"
@@ -3616,7 +3665,7 @@ C;X6;K1
 C;X7;K5.99
 C;X8;K0.01555844155844156;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07CVCTM3D"
-C;Y155;X1;K"maui moisture"
+C;Y156;X1;K"maui moisture"
 C;X2;K"thicken & restore"
 C;X3;K"n"
 C;X4;K"n"
@@ -3625,49 +3674,49 @@ C;X6;K1
 C;X7;K6
 C;X8;K0.015584415584415584;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07CTRS32K"
-C;Y156;X1;K"maui moisture"
+C;Y157;X1;K"maui moisture"
 C;X2;K"color protection"
 C;X3;K"n"
 C;X4;K"n"
 C;X9;K"https://uk.mauimoisture.com/shop/color-protect/shampoo-7/"
-C;Y157;X1;K"maui moisture"
+C;Y158;X1;K"maui moisture"
 C;X2;K"lightweight"
 C;X3;K"n"
 C;X4;K"n"
 C;X9;K"https://uk.mauimoisture.com/shop/lightweight-hydration-hibiscus-water/shampoo-8/"
-C;Y158;X1;K"maui moisture"
+C;Y159;X1;K"maui moisture"
 C;X2;K"nourish & moisture"
 C;X3;K"n"
 C;X4;K"n"
 C;X9;K"https://uk.mauimoisture.com/shop/nourish-moisture-coconut-milk/shampoo-3/"
-C;Y159;X1;K"maui moisture"
+C;Y160;X1;K"maui moisture"
 C;X2;K"revive & hydrate"
 C;X3;K"n"
 C;X4;K"n"
 C;X9;K"https://uk.mauimoisture.com/shop/heal-hydrate-shea-butter/shampoo-2/"
-C;Y160;X1;K"maui moisture"
+C;Y161;X1;K"maui moisture"
 C;X2;K"smooth & revive"
 C;X3;K"n"
 C;X4;K"n"
 C;X9;K"https://uk.mauimoisture.com/shop/smooth-repair-vanilla-bean/shampoo-4/"
-C;Y161;X1;K"maui moisture"
+C;Y162;X1;K"maui moisture"
 C;X2;K"strength"
 C;X3;K"n"
 C;X4;K"n"
 C;X9;K"https://uk.mauimoisture.com/shop/strength-anti-breakage-agave/shampoo-5/"
-C;Y162;X1;K"maxine laceby"
+C;Y163;X1;K"maxine laceby"
 C;X2;K"absolute collagen"
 C;X3;K"y"
 C;X4;K"?"
-C;Y163;X1;K"milk_shake"
+C;Y164;X1;K"milk_shake"
 C;X2;K"silver shine"
 C;X3;K"y"
 C;X4;K"n"
-C;Y164;X1;K"molton brown"
+C;Y165;X1;K"molton brown"
 C;X2;K"thickening ginger"
 C;X3;K"y"
 C;X4;K"n"
-C;Y165;X1;K"moroccanoil"
+C;Y166;X1;K"moroccanoil"
 C;X2;K"hydration"
 C;X3;K"n"
 C;X4;K"n"
@@ -3676,7 +3725,7 @@ C;X6;K1
 C;X7;K6.45
 C;X8;K0.09214285714285715;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B01BVV94VW"
-C;Y166;X1;K"moroccanoil"
+C;Y167;X1;K"moroccanoil"
 C;X2;K"repair"
 C;X3;K"n"
 C;X4;K"n"
@@ -3685,7 +3734,7 @@ C;X6;K1
 C;X7;K16.96
 C;X8;K0.06784;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B002N5MKLW"
-C;Y167;X1;K"moroccanoil"
+C;Y168;X1;K"moroccanoil"
 C;X2;K"repair"
 C;X3;K"n"
 C;X4;K"n"
@@ -3694,43 +3743,43 @@ C;X6;K1
 C;X7;K17.85
 C;X8;K0.0714;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.feelunique.com/p/Moroccanoil-Moisture-Repair-Shampoo-250ml"
-C;Y168;X1;K"my hair matters"
+C;Y169;X1;K"my hair matters"
 C;X2;K"colour protect"
 C;X3;K"y"
 C;X4;K"n"
-C;Y169;X1;K"my hair matters"
+C;Y170;X1;K"my hair matters"
 C;X2;K"nourish & repair"
 C;X3;K"y"
 C;X4;K"n"
-C;Y170;X1;K"my hair matters"
+C;Y171;X1;K"my hair matters"
 C;X2;K"smooth & shine"
 C;X3;K"y"
 C;X4;K"n"
-C;Y171;X1;K"my hair matters"
+C;Y172;X1;K"my hair matters"
 C;X2;K"volume boost"
 C;X3;K"y"
 C;X4;K"n"
-C;Y172;X1;K"nature box"
+C;Y173;X1;K"nature box"
 C;X2;K"repair"
 C;X3;K"y"
 C;X4;K"?"
-C;Y173;X1;K"neutrogena"
+C;Y174;X1;K"neutrogena"
 C;X2;K"anti-residue"
 C;X3;K"y"
 C;X4;K"y"
-C;Y174;X1;K"neutrogena"
+C;Y175;X1;K"neutrogena"
 C;X2;K"T/gel"
 C;X3;K"y"
 C;X4;K"n"
-C;Y175;X1;K"nexxus"
+C;Y176;X1;K"nexxus"
 C;X2;K"frizz"
 C;X3;K"?"
 C;X4;K"y"
-C;Y176;X1;K"nizoral"
+C;Y177;X1;K"nizoral"
 C;X2;K"anti-dandruff"
 C;X3;K"y"
 C;X4;K"n"
-C;Y177;X1;K"noughty"
+C;Y178;X1;K"noughty"
 C;X2;K"detox dynamo"
 C;X3;K"n"
 C;X4;K"n"
@@ -3739,7 +3788,7 @@ C;X6;K1
 C;X7;K6.77
 C;X8;K0.02708;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B0746NGT3D"
-C;Y178;X1;K"noughty"
+C;Y179;X1;K"noughty"
 C;X2;K"detox dynamo"
 C;X3;K"n"
 C;X4;K"n"
@@ -3748,7 +3797,7 @@ C;X6;K1
 C;X7;K6.99
 C;X8;K0.027960000000000002;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B0746NGT3D"
-C;Y179;X1;K"ogx"
+C;Y180;X1;K"ogx"
 C;X2;K"apple cider vinegar"
 C;X3;K"n"
 C;X4;K"n"
@@ -3757,7 +3806,7 @@ C;X6;K1
 C;X7;K7.99
 C;X8;K0.020753246753246753;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B081HJ1P5F"
-C;Y180;X1;K"ogx"
+C;Y181;X1;K"ogx"
 C;X2;K"argan oil of morocco"
 C;X3;K"n"
 C;X4;K"n"
@@ -3766,7 +3815,7 @@ C;X6;K4
 C;X7;K26.56;E6.64*4
 C;X8;K0.011507798960138647;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B09DDM36MW"
-C;Y181;X1;K"ogx"
+C;Y182;X1;K"ogx"
 C;X2;K"argan oil of morocco"
 C;X3;K"n"
 C;X4;K"n"
@@ -3775,7 +3824,7 @@ C;X6;K4
 C;X7;K17.72;E4.43*4
 C;X8;K0.011506493506493506;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B0097FVTW2"
-C;Y182;X1;K"ogx"
+C;Y183;X1;K"ogx"
 C;X2;K"biotin"
 C;X3;K"n"
 C;X4;K"n"
@@ -3784,7 +3833,7 @@ C;X6;K4
 C;X7;K26.56;E6.64*4
 C;X8;K0.011507798960138647;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B09DDRD2PQ"
-C;Y183;X1;K"ogx"
+C;Y184;X1;K"ogx"
 C;X2;K"biotin"
 C;X3;K"n"
 C;X4;K"n"
@@ -3793,7 +3842,7 @@ C;X6;K4
 C;X7;K17.72;E4*4.43
 C;X8;K0.011506493506493506;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B00MXZJ362"
-C;Y184;X1;K"ogx"
+C;Y185;X1;K"ogx"
 C;X2;K"biotin"
 C;X3;K"n"
 C;X4;K"n"
@@ -3802,7 +3851,7 @@ C;X6;K1
 C;X7;K4.53
 C;X8;K0.05107102593010147;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.onbuy.com/gb/ogx-thick-and-full-biotin-and-collagen-shampoo-887-ml~c5396~p7356284/"
-C;Y185;X1;K"ogx"
+C;Y186;X1;K"ogx"
 C;X2;K"charcoal"
 C;X3;K"n"
 C;X4;K"n"
@@ -3811,43 +3860,43 @@ C;X6;K1
 C;X7;K4.5
 C;X8;K0.011688311688311689;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07L3FFYM7"
-C;Y186;X1;K"ogx"
+C;Y187;X1;K"ogx"
 C;X2;K"brazilian keratin"
 C;X3;K"n"
 C;X4;K"y"
-C;Y187;X1;K"ogx"
+C;Y188;X1;K"ogx"
 C;X2;K"argan"
 C;X3;K"n"
 C;X4;K"y"
-C;Y188;X1;K"ogx"
+C;Y189;X1;K"ogx"
 C;X2;K"coconut milk"
 C;X3;K"n"
 C;X4;K"y"
-C;Y189;X1;K"ogx"
+C;Y190;X1;K"ogx"
 C;X2;K"orchid"
 C;X3;K"y"
 C;X4;K"n"
-C;Y190;X1;K"ogx"
+C;Y191;X1;K"ogx"
 C;X2;K"coconut oil"
 C;X3;K"?"
 C;X4;K"y"
-C;Y191;X1;K"ogx"
+C;Y192;X1;K"ogx"
 C;X2;K"coconut curls"
 C;X3;K"?"
 C;X4;K"y"
-C;Y192;X1;K"ogx"
+C;Y193;X1;K"ogx"
 C;X2;K"frosted"
 C;X3;K"?"
 C;X4;K"y"
-C;Y193;X1;K"ogx"
+C;Y194;X1;K"ogx"
 C;X2;K"mistletoe"
 C;X3;K"?"
 C;X4;K"y"
-C;Y194;X1;K"ogx"
+C;Y195;X1;K"ogx"
 C;X2;K"pomegranate"
 C;X3;K"?"
 C;X4;K"y"
-C;Y195;X1;K"olaplex"
+C;Y196;X1;K"olaplex"
 C;X2;K4
 C;X3;K"n"
 C;X4;K"n"
@@ -3856,7 +3905,7 @@ C;X6;K1
 C;X7;K21.96
 C;X8;K0.08784;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07D37PQGL"
-C;Y196;X1;K"olaplex"
+C;Y197;X1;K"olaplex"
 C;X2;K"4P"
 C;X3;K"n"
 C;X4;K"n"
@@ -3865,7 +3914,7 @@ C;X6;K1
 C;X7;K21.56
 C;X8;K0.08624;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B09FYK7FKR"
-C;Y197;X1;K"olaplex"
+C;Y198;X1;K"olaplex"
 C;X2;K6
 C;X3;K"n"
 C;X4;K"n"
@@ -3874,11 +3923,11 @@ C;X6;K1
 C;X7;K19.94
 C;X8;K0.19940000000000002;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.onbuy.com/gb/olaplex-no-6-bond-smoother-100ml~c5396~p17577244/"
-C;Y198;X1;K"ors"
+C;Y199;X1;K"ors"
 C;X2;K"creamy aloe"
 C;X3;K"y"
 C;X4;K"y"
-C;Y199;X1;K"palmers"
+C;Y200;X1;K"palmers"
 C;X3;K"n"
 C;X4;K"n"
 C;X5;K400
@@ -3886,7 +3935,7 @@ C;X6;K1
 C;X7;K4.7
 C;X8;K0.01175;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B004NOZJVE"
-C;Y200;X1;K"palmers"
+C;Y201;X1;K"palmers"
 C;X3;K"n"
 C;X4;K"n"
 C;X5;K400
@@ -3894,58 +3943,58 @@ C;X6;K4
 C;X7;K23.93
 C;X8;K0.014956249999999999;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B00C0ZZL16"
-C;Y201;X1;K"palmolive"
+C;Y202;X1;K"palmolive"
 C;X2;K"2 in 1 hydra balance"
 C;X3;K"y"
 C;X4;K"n"
-C;Y202;X1;K"palmolive"
+C;Y203;X1;K"palmolive"
 C;X2;K"anti dandruff"
 C;X3;K"y"
 C;X4;K"n"
-C;Y203;X1;K"pantene pro-v"
+C;Y204;X1;K"pantene pro-v"
 C;X2;K"classic clean"
 C;X3;K"y"
 C;X4;K"n"
-C;Y204;X1;K"pantene pro-v"
+C;Y205;X1;K"pantene pro-v"
 C;X2;K"classic clean 3 in 1"
 C;X3;K"y"
 C;X4;K"n"
-C;Y205;X1;K"pantene pro-v"
+C;Y206;X1;K"pantene pro-v"
 C;X2;K"repair & protect"
 C;X3;K"y"
 C;X4;K"n"
-C;Y206;X1;K"pantene pro-v"
+C;Y207;X1;K"pantene pro-v"
 C;X2;K"smooth & sleek"
 C;X3;K"y"
 C;X4;K"n"
-C;Y207;X1;K"pantene pro-v"
+C;Y208;X1;K"pantene pro-v"
 C;X2;K"superfood"
 C;X3;K"y"
 C;X4;K"n"
-C;Y208;X1;K"philip kingsley"
+C;Y209;X1;K"philip kingsley"
 C;X2;K"body building"
 C;X3;K"y"
 C;X4;K"n"
-C;Y209;X1;K"philip kingsley"
+C;Y210;X1;K"philip kingsley"
 C;X2;K"moisture balancing"
 C;X3;K"y"
 C;X4;K"n"
-C;Y210;X1;K"plantur 39"
-C;X3;K"y"
-C;X4;K"?"
 C;Y211;X1;K"plantur 39"
-C;X2;K"colour brown"
 C;X3;K"y"
 C;X4;K"?"
 C;Y212;X1;K"plantur 39"
+C;X2;K"colour brown"
+C;X3;K"y"
+C;X4;K"?"
+C;Y213;X1;K"plantur 39"
 C;X2;K"colour silver"
 C;X3;K"y"
 C;X4;K"?"
-C;Y213;X1;K"pro:voke"
+C;Y214;X1;K"pro:voke"
 C;X2;K"touch of silver"
 C;X3;K"y"
 C;X4;K"n"
-C;Y214;X1;K"pureology"
+C;Y215;X1;K"pureology"
 C;X2;K"hydrate"
 C;X3;K"n"
 C;X4;K"n"
@@ -3954,7 +4003,7 @@ C;X6;K1
 C;X7;K13.91
 C;X8;K0.052293233082706767;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B0891843GC"
-C;Y215;X1;K"pureology"
+C;Y216;X1;K"pureology"
 C;X2;K"hydrate"
 C;X3;K"n"
 C;X4;K"n"
@@ -3963,11 +4012,29 @@ C;X6;K1
 C;X7;K33.26
 C;X8;K0.03326;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B088ZZYMK2"
-C;Y216;X1;K"radox"
+C;Y217;X1;K"pureology"
+C;X2;K"strength cure"
+C;X3;K"n"
+C;X4;K"n"
+C;X5;K266
+C;X6;K1
+C;X7;K12.82
+C;X8;K0.048195488721804514;ERC[-1]/(RC[-3]*RC[-2])
+C;X9;K"https://www.amazon.co.uk/dp/B0891843GD"
+C;Y218;X1;K"pureology"
+C;X2;K"strength cure"
+C;X3;K"n"
+C;X4;K"n"
+C;X5;K266
+C;X6;K1
+C;X7;K19.95
+C;X8;K0.075;ERC[-1]/(RC[-3]*RC[-2])
+C;X9;K"https://www.lookfantastic.com/12594153.html"
+C;Y219;X1;K"radox"
 C;X2;K"start fresh"
 C;X3;K"y"
 C;X4;K"n"
-C;Y217;X1;K"redken"
+C;Y220;X1;K"redken"
 C;X2;K"acidic bonding"
 C;X3;K"n"
 C;X4;K"n"
@@ -3976,15 +4043,15 @@ C;X6;K1
 C;X7;K16.43
 C;X8;K0.054766666666666665;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B08P66Q9TK"
-C;Y218;X1;K"redken"
+C;Y221;X1;K"redken"
 C;X2;K"all soft"
 C;X3;K"y"
 C;X4;K"n"
-C;Y219;X1;K"redken"
+C;Y222;X1;K"redken"
 C;X2;K"colour blondage"
 C;X3;K"y"
 C;X4;K"n"
-C;Y220;X1;K"redken"
+C;Y223;X1;K"redken"
 C;X2;K"color magnetics"
 C;X3;K"n"
 C;X4;K"n"
@@ -3993,7 +4060,7 @@ C;X6;K1
 C;X7;K12.8
 C;X8;K0.04266666666666667;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B00EZ3QRVY"
-C;Y221;X1;K"redken"
+C;Y224;X1;K"redken"
 C;X2;K"color magnetics"
 C;X3;K"n"
 C;X4;K"n"
@@ -4002,7 +4069,7 @@ C;X6;K1
 C;X7;K13.77
 C;X8;K0.045899999999999996;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B08Y1F7G31"
-C;Y222;X1;K"redken"
+C;Y225;X1;K"redken"
 C;X2;K"color magnetics"
 C;X3;K"n"
 C;X4;K"n"
@@ -4011,86 +4078,86 @@ C;X6;K1
 C;X7;K28.71
 C;X8;K0.02871;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B009QZCA76"
-C;Y223;X1;K"redken"
+C;Y226;X1;K"redken"
 C;X2;K"high rise volume"
 C;X3;K"y"
 C;X4;K"n"
-C;Y224;X1;K"redken"
+C;Y227;X1;K"redken"
 C;X2;K"scalp relief"
 C;X3;K"y"
 C;X4;K"?"
-C;Y225;X1;K"redken"
+C;Y228;X1;K"redken"
 C;X2;K"volume injection"
 C;X3;K"y"
 C;X4;K"?"
-C;Y226;X1;K"redken extreme"
+C;Y229;X1;K"redken extreme"
 C;X3;K"y"
 C;X4;K"n"
-C;Y227;X1;K"redken extreme"
+C;Y230;X1;K"redken extreme"
 C;X2;K"bleach recovery"
 C;X3;K"y"
 C;X4;K"?"
-C;Y228;X1;K"redken extreme"
+C;Y231;X1;K"redken extreme"
 C;X2;K"length"
 C;X3;K"y"
 C;X4;K"n"
-C;Y229;X1;K"sainsburys"
+C;Y232;X1;K"sainsburys"
 C;X2;K"2 in 1"
 C;X3;K"y"
 C;X4;K"n"
-C;Y230;X1;K"sainsburys"
+C;Y233;X1;K"sainsburys"
 C;X2;K"apple"
 C;X3;K"y"
 C;X4;K"n"
-C;Y231;X1;K"sainsburys"
+C;Y234;X1;K"sainsburys"
 C;X2;K"coconut"
 C;X3;K"y"
 C;X4;K"n"
-C;Y232;X1;K"sainsburys"
+C;Y235;X1;K"sainsburys"
 C;X2;K"kids cherry 2 in 1"
 C;X3;K"y"
 C;X4;K"n"
-C;Y233;X1;K"sainsburys"
+C;Y236;X1;K"sainsburys"
 C;X2;K"kids strawberry"
 C;X3;K"y"
 C;X4;K"n"
-C;Y234;X1;K"sainsburys"
+C;Y237;X1;K"sainsburys"
 C;X2;K"kids tropical 2 in 1"
 C;X3;K"y"
 C;X4;K"n"
-C;Y235;X1;K"sainsburys"
+C;Y238;X1;K"sainsburys"
 C;X2;K"little ones baby"
 C;X3;K"y"
 C;X4;K"n"
-C;Y236;X1;K"sainsburys"
+C;Y239;X1;K"sainsburys"
 C;X2;K"sensitive baby"
 C;X3;K"y"
 C;X4;K"n"
-C;Y237;X1;K"sainsburys"
+C;Y240;X1;K"sainsburys"
 C;X2;K"tea tree 2 in 1"
 C;X3;K"y"
 C;X4;K"n"
-C;Y238;X1;K"Schwarzkopf"
+C;Y241;X1;K"Schwarzkopf"
 C;X2;K"bonacure hyaluronic"
 C;X3;K"?"
 C;X4;K"?"
-C;Y239;X1;K"Schwarzkopf"
+C;Y242;X1;K"Schwarzkopf"
 C;X2;K"bonacure ph 4.5"
 C;X3;K"y"
 C;X4;K"n"
-C;Y240;X1;K"Schwarzkopf"
+C;Y243;X1;K"Schwarzkopf"
 C;X2;K"bonacure q10+"
 C;X3;K"y"
 C;X4;K"?"
-C;Y241;X1;K"Schwarzkopf gliss"
+C;Y244;X1;K"Schwarzkopf gliss"
 C;X2;K"liquid silk"
 C;X3;K"y"
 C;X4;K"n"
-C;Y242;X1;K"Schwarzkopf gliss"
+C;Y245;X1;K"Schwarzkopf gliss"
 C;X2;K"volume & repair"
 C;X3;K"y"
 C;X4;K"n"
-C;Y243;X1;K"shea moisture"
+C;Y246;X1;K"shea moisture"
 C;X2;K"smooth & tame"
 C;X3;K"n"
 C;X4;K"n"
@@ -4099,71 +4166,71 @@ C;X6;K1
 C;X7;K10.99
 C;X8;K0.02861979166666667;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07XWVWZZQ"
-C;Y244;X1;K"simple"
+C;Y247;X1;K"simple"
 C;X2;K"gentle cleansing"
 C;X3;K"y"
 C;X4;K"n"
-C;Y245;X1;K"studio selection"
+C;Y248;X1;K"studio selection"
 C;X2;K"moisture"
 C;X3;K"?"
 C;X4;K"y"
-C;Y246;X1;K"suave"
+C;Y249;X1;K"suave"
 C;X2;K"2-in-1 alpine"
 C;X3;K"?"
 C;X4;K"y"
-C;Y247;X1;K"suave"
+C;Y250;X1;K"suave"
 C;X2;K"2-in-1 classic"
 C;X3;K"?"
 C;X4;K"y"
-C;Y248;X1;K"suave"
+C;Y251;X1;K"suave"
 C;X2;K"2-in-1 plus"
 C;X3;K"?"
 C;X4;K"y"
-C;Y249;X1;K"suave"
+C;Y252;X1;K"suave"
 C;X2;K"almond"
 C;X3;K"?"
 C;X4;K"y"
-C;Y250;X1;K"suave"
+C;Y253;X1;K"suave"
 C;X2;K"apple"
 C;X3;K"?"
 C;X4;K"y"
-C;Y251;X1;K"suave"
+C;Y254;X1;K"suave"
 C;X2;K"avocado"
 C;X3;K"?"
 C;X4;K"y"
-C;Y252;X1;K"suave"
+C;Y255;X1;K"suave"
 C;X2;K"coconut oil"
 C;X3;K"?"
 C;X4;K"y"
-C;Y253;X1;K"suave"
+C;Y256;X1;K"suave"
 C;X2;K"colour"
 C;X3;K"?"
 C;X4;K"y"
-C;Y254;X1;K"suave"
+C;Y257;X1;K"suave"
 C;X2;K"daily"
 C;X3;K"?"
 C;X4;K"y"
-C;Y255;X1;K"suave"
+C;Y258;X1;K"suave"
 C;X2;K"damage"
 C;X3;K"?"
 C;X4;K"y"
-C;Y256;X1;K"suave"
+C;Y259;X1;K"suave"
 C;X2;K"keratin"
 C;X3;K"?"
 C;X4;K"y"
-C;Y257;X1;K"suave"
+C;Y260;X1;K"suave"
 C;X2;K"ocean"
 C;X3;K"?"
 C;X4;K"y"
-C;Y258;X1;K"suave"
+C;Y261;X1;K"suave"
 C;X2;K"rosemary"
 C;X3;K"?"
 C;X4;K"y"
-C;Y259;X1;K"suave"
+C;Y262;X1;K"suave"
 C;X2;K"tropical"
 C;X3;K"?"
 C;X4;K"y"
-C;Y260;X1;K"sukin"
+C;Y263;X1;K"sukin"
 C;X2;K"natural balance"
 C;X3;K"n"
 C;X4;K"n"
@@ -4172,139 +4239,139 @@ C;X6;K1
 C;X7;K9.88
 C;X8;K0.009880000000000002;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B07C5HXVVY"
-C;Y261;X1;K"sunbum"
+C;Y264;X1;K"sunbum"
 C;X2;K"revitalizing"
 C;X3;K"?"
 C;X4;K"y"
-C;Y262;X1;K"sunbum"
+C;Y265;X1;K"sunbum"
 C;X2;K"spray"
 C;X3;K"?"
 C;X4;K"y"
-C;Y263;X1;K"tesco"
+C;Y266;X1;K"tesco"
 C;X2;K"essentials"
 C;X3;K"y"
 C;X4;K"n"
-C;Y264;X1;K"tesco"
+C;Y267;X1;K"tesco"
 C;X2;K"extracts apple"
 C;X3;K"y"
 C;X4;K"n"
-C;Y265;X1;K"tesco"
+C;Y268;X1;K"tesco"
 C;X2;K"extracts blueberry"
 C;X3;K"y"
 C;X4;K"n"
-C;Y266;X1;K"tesco"
+C;Y269;X1;K"tesco"
 C;X2;K"extracts coconut"
 C;X3;K"y"
 C;X4;K"n"
-C;Y267;X1;K"tesco"
+C;Y270;X1;K"tesco"
 C;X2;K"extracts raspberry"
 C;X3;K"y"
 C;X4;K"n"
-C;Y268;X1;K"tesco"
+C;Y271;X1;K"tesco"
 C;X2;K"extracts tropical"
 C;X3;K"y"
 C;X4;K"n"
-C;Y269;X1;K"tesco"
+C;Y272;X1;K"tesco"
 C;X2;K"kids apple & melon"
 C;X3;K"y"
 C;X4;K"n"
-C;Y270;X1;K"tesco"
+C;Y273;X1;K"tesco"
 C;X2;K"kids strawberry 2 in 1"
 C;X3;K"y"
 C;X4;K"n"
-C;Y271;X1;K"tesco anti-dandruff"
+C;Y274;X1;K"tesco anti-dandruff"
 C;X2;K"2 in 1 thickening"
 C;X3;K"y"
 C;X4;K"n"
-C;Y272;X1;K"tesco anti-dandruff"
+C;Y275;X1;K"tesco anti-dandruff"
 C;X2;K"2 in 1"
 C;X3;K"y"
 C;X4;K"n"
-C;Y273;X1;K"tesco anti-dandruff"
+C;Y276;X1;K"tesco anti-dandruff"
 C;X2;K"apple"
 C;X3;K"y"
 C;X4;K"n"
-C;Y274;X1;K"tesco anti-dandruff"
+C;Y277;X1;K"tesco anti-dandruff"
 C;X2;K"citrus"
 C;X3;K"y"
 C;X4;K"n"
-C;Y275;X1;K"tesco anti-dandruff"
+C;Y278;X1;K"tesco anti-dandruff"
 C;X2;K"classic"
 C;X3;K"y"
 C;X4;K"n"
-C;Y276;X1;K"tesco anti-dandruff"
+C;Y279;X1;K"tesco anti-dandruff"
 C;X2;K"sensitive"
 C;X3;K"y"
 C;X4;K"n"
-C;Y277;X1;K"toni & guy"
+C;Y280;X1;K"toni & guy"
 C;X2;K"men deep clean"
 C;X3;K"y"
 C;X4;K"n"
-C;Y278;X1;K"tresemme"
+C;Y281;X1;K"tresemme"
 C;X2;K"biotin"
 C;X3;K"y"
 C;X4;K"y"
-C;Y279;X1;K"tresemme"
+C;Y282;X1;K"tresemme"
 C;X2;K"botanique"
 C;X3;K"y"
 C;X4;K"n"
-C;Y280;X1;K"tresemme"
+C;Y283;X1;K"tresemme"
 C;X2;K"breakage"
 C;X3;K"?"
 C;X4;K"y"
-C;Y281;X1;K"tresemme"
+C;Y284;X1;K"tresemme"
 C;X2;K"cleanse"
 C;X3;K"y"
 C;X4;K"n"
-C;Y282;X1;K"tresemme"
+C;Y285;X1;K"tresemme"
 C;X2;K"cleanse 2 in 1"
 C;X3;K"y"
 C;X4;K"y"
-C;Y283;X1;K"tresemme"
+C;Y286;X1;K"tresemme"
 C;X2;K"curl"
 C;X3;K"?"
 C;X4;K"y"
-C;Y284;X1;K"tresemme"
+C;Y287;X1;K"tresemme"
 C;X2;K"collagen"
 C;X3;K"y"
 C;X4;K"n"
-C;Y285;X1;K"tresemme"
+C;Y288;X1;K"tresemme"
 C;X2;K"colour"
 C;X3;K"y"
 C;X4;K"y"
-C;Y286;X1;K"tresemme"
+C;Y289;X1;K"tresemme"
 C;X2;K"colour revitalise"
 C;X3;K"y"
 C;X4;K"n"
-C;Y287;X1;K"tresemme"
+C;Y290;X1;K"tresemme"
 C;X2;K"keratin 7 day"
 C;X3;K"y"
 C;X4;K"y"
-C;Y288;X1;K"tresemme"
+C;Y291;X1;K"tresemme"
 C;X2;K"keratin marula"
 C;X3;K"y"
 C;X4;K"n"
-C;Y289;X1;K"tresemme"
+C;Y292;X1;K"tresemme"
 C;X2;K"moisture rich"
 C;X3;K"y"
 C;X4;K"y"
-C;Y290;X1;K"tresemme"
+C;Y293;X1;K"tresemme"
 C;X2;K"moisture rich"
 C;X3;K"y"
 C;X4;K"y"
-C;Y291;X1;K"tresemme"
+C;Y294;X1;K"tresemme"
 C;X2;K"moisture rich"
 C;X3;K"y"
 C;X4;K"n"
-C;Y292;X1;K"tresemme"
+C;Y295;X1;K"tresemme"
 C;X2;K"protect"
 C;X3;K"?"
 C;X4;K"y"
-C;Y293;X1;K"tresemme"
+C;Y296;X1;K"tresemme"
 C;X2;K"repair"
 C;X3;K"?"
 C;X4;K"y"
-C;Y294;X1;K"tresemme"
+C;Y297;X1;K"tresemme"
 C;X2;K"shineplex"
 C;X3;K"n"
 C;X4;K"n"
@@ -4313,35 +4380,53 @@ C;X6;K1
 C;X7;K3
 C;X8;K0.0075;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://groceries.asda.com/product/1000102260790"
-C;Y295;X1;K"tresemme"
-C;X2;K"smooth & silky"
-C;X3;K"y"
-C;X4;K"n"
-C;Y296;X1;K"tresemme"
-C;X2;K"smooth & silky"
-C;X3;K"y"
-C;X4;K"n"
-C;Y297;X1;K"tresemme"
-C;X2;K"touchable"
-C;X3;K"?"
-C;X4;K"y"
 C;Y298;X1;K"tresemme"
-C;X2;K"violet blonde shine"
+C;X2;K"smooth & silky"
 C;X3;K"y"
 C;X4;K"n"
 C;Y299;X1;K"tresemme"
+C;X2;K"smooth & silky"
+C;X3;K"y"
+C;X4;K"n"
+C;Y300;X1;K"tresemme"
+C;X2;K"touchable"
+C;X3;K"?"
+C;X4;K"y"
+C;Y301;X1;K"tresemme"
+C;X2;K"violet blonde shine"
+C;X3;K"y"
+C;X4;K"n"
+C;Y302;X1;K"tresemme"
 C;X2;K"volume"
 C;X3;K"y"
 C;X4;K"y"
-C;Y300;X1;K"v05"
+C;Y303;X1;K"tresemme pro pure"
+C;X2;K"airlight"
+C;X3;K"n"
+C;X4;K"n"
+C;X5;K380
+C;X6;K1
+C;X7;K4.5
+C;X8;K0.011842105263157895;ERC[-1]/(RC[-3]*RC[-2])
+C;X9;K"https://groceries.morrisons.com/products/tresemme-pro-pure-airlight-volume-shampoo-576466011"
+C;Y304;X1;K"tresemme pro pure"
+C;X2;K"damage recovery"
+C;X3;K"n"
+C;X4;K"n"
+C;X5;K380
+C;X6;K1
+C;X7;K4.5
+C;X8;K0.011842105263157895;ERC[-1]/(RC[-3]*RC[-2])
+C;X9;K"https://groceries.morrisons.com/products/tresemme-pro-pure-damage-recovery-shampoo-576467011"
+C;Y305;X1;K"v05"
 C;X2;K"nourish"
 C;X3;K"y"
 C;X4;K"y"
-C;Y301;X1;K"v05"
+C;Y306;X1;K"v05"
 C;X2;K"silky"
 C;X3;K"?"
 C;X4;K"y"
-C;Y302;X1;K"virtue"
+C;Y307;X1;K"virtue"
 C;X2;K"refresh"
 C;X3;K"n"
 C;X4;K"n"
@@ -4350,7 +4435,7 @@ C;X6;K1
 C;X7;K2.24
 C;X8;K0.32;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.ebay.co.uk/itm/233579905124"
-C;Y303;X1;K"virtue"
+C;Y308;X1;K"virtue"
 C;X2;K"refresh"
 C;X3;K"n"
 C;X4;K"n"
@@ -4359,7 +4444,7 @@ C;X6;K1
 C;X7;K26
 C;X8;K0.21666666666666667;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.spacenk.com/uk/haircare/shampoo/shampoos/refresh-purifying-shampoo-MUK200023398.html"
-C;Y304;X1;K"viviscal"
+C;Y309;X1;K"viviscal"
 C;X2;K"densifying"
 C;X3;K"y"
 C;X4;K"n"
@@ -4368,27 +4453,27 @@ C;X6;K1
 C;X7;K8.49
 C;X8;K0.033960000000000004;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B01CCK1B1C"
-C;Y305;X1;K"vosene"
+C;Y310;X1;K"vosene"
 C;X2;K"kids 3 in 1"
 C;X3;K"y"
 C;X4;K"n"
-C;Y306;X1;K"vosene"
+C;Y311;X1;K"vosene"
 C;X2;K"medicated all hair"
 C;X3;K"y"
 C;X4;K"y"
-C;Y307;X1;K"wash & go"
+C;Y312;X1;K"wash & go"
 C;X2;K"2 in 1"
 C;X3;K"y"
 C;X4;K"n"
-C;Y308;X1;K"wash & go"
+C;Y313;X1;K"wash & go"
 C;X2;K"2 in 1"
 C;X3;K"y"
 C;X4;K"n"
-C;Y309;X1;K"wash & go"
+C;Y314;X1;K"wash & go"
 C;X2;K"2 in 1 sport"
 C;X3;K"y"
 C;X4;K"n"
-C;Y310;X1;K"watermans"
+C;Y315;X1;K"watermans"
 C;X2;K"grow me"
 C;X3;K"n"
 C;X4;K"n"
@@ -4397,7 +4482,7 @@ C;X6;K1
 C;X7;K13.95
 C;X8;K0.055799999999999995;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B00Q59B4UK"
-C;Y311;X1;K"wella"
+C;Y316;X1;K"wella"
 C;X2;K"fusion"
 C;X3;K"n"
 C;X4;K"n"
@@ -4406,7 +4491,7 @@ C;X6;K1
 C;X7;K12.8
 C;X8;K0.0512;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.lookfantastic.com/11443403.html"
-C;Y312;X1;K"wella"
+C;Y317;X1;K"wella"
 C;X2;K"fusion"
 C;X3;K"n"
 C;X4;K"n"
@@ -4415,7 +4500,7 @@ C;X6;K1
 C;X7;K13.67
 C;X8;K0.05468;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B09PW3RN74"
-C;Y313;X1;K"wella"
+C;Y318;X1;K"wella"
 C;X2;K"fusion"
 C;X3;K"n"
 C;X4;K"n"
@@ -4424,15 +4509,15 @@ C;X6;K1
 C;X7;K45.95
 C;X8;K0.045950000000000005;ERC[-1]/(RC[-3]*RC[-2])
 C;X9;K"https://www.amazon.co.uk/dp/B072JCN7J3"
-C;Y314;X1;K"xhc"
+C;Y319;X1;K"xhc"
 C;X2;K"hemp"
 C;X3;K"n"
 C;X4;K"y"
-C;Y315;X1;K"xhc"
+C;Y320;X1;K"xhc"
 C;X2;K"strawberry"
 C;X3;K"n"
 C;X4;K"y"
-C;Y316;X1;K"xtracare"
+C;Y321;X1;K"xtracare"
 C;X2;K"3-in-1"
 C;X3;K"?"
 C;X4;K"y"
