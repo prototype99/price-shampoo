@@ -25,7 +25,7 @@
   </gnm:Attributes>
   <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
     <office:meta>
-      <dc:date>2024-10-26T05:22:17Z</dc:date>
+      <dc:date>2024-11-13T12:34:47Z</dc:date>
       <meta:creation-date>2022-11-15T20:31:17Z</meta:creation-date>
     </office:meta>
   </office:document-meta>
@@ -33,12 +33,12 @@
   <gnm:SheetNameIndex>
     <gnm:SheetName gnm:Cols="256" gnm:Rows="65536">Sheet1</gnm:SheetName>
   </gnm:SheetNameIndex>
-  <gnm:Geometry Width="1920" Height="795"/>
+  <gnm:Geometry Width="1920" Height="797"/>
   <gnm:Sheets>
     <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
       <gnm:Name>Sheet1</gnm:Name>
       <gnm:MaxCol>10</gnm:MaxCol>
-      <gnm:MaxRow>563</gnm:MaxRow>
+      <gnm:MaxRow>560</gnm:MaxRow>
       <gnm:Zoom>1</gnm:Zoom>
       <gnm:Names>
         <gnm:Name>
@@ -85,7 +85,7 @@
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
         </gnm:StyleRegion>
-        <gnm:StyleRegion startCol="0" startRow="65533" endCol="255" endRow="65535">
+        <gnm:StyleRegion startCol="0" startRow="65533" endCol="7" endRow="65535">
           <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
@@ -340,7 +340,7 @@
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
         </gnm:StyleRegion>
-        <gnm:StyleRegion startCol="8" startRow="561" endCol="255" endRow="65532">
+        <gnm:StyleRegion startCol="8" startRow="561" endCol="255" endRow="65535">
           <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
@@ -1098,8 +1098,8 @@
         <gnm:RowInfo No="170" Unit="14.25"/>
         <gnm:RowInfo No="558" Unit="13.5" Count="3"/>
       </gnm:Rows>
-      <gnm:Selections CursorCol="6" CursorRow="339">
-        <gnm:Selection startCol="6" startRow="339" endCol="6" endRow="339"/>
+      <gnm:Selections CursorCol="8" CursorRow="339">
+        <gnm:Selection startCol="8" startRow="339" endCol="8" endRow="339"/>
       </gnm:Selections>
       <gnm:Cells>
         <gnm:Cell Row="0" Col="0" ValueType="60">brand</gnm:Cell>
@@ -2940,9 +2940,9 @@
         <gnm:Cell Row="338" Col="3" ValueType="60">n</gnm:Cell>
         <gnm:Cell Row="338" Col="4" ValueType="40">385</gnm:Cell>
         <gnm:Cell Row="338" Col="5" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="338" Col="6" ValueType="40">3.5</gnm:Cell>
+        <gnm:Cell Row="338" Col="6" ValueType="40">3.7400000000000002</gnm:Cell>
         <gnm:Cell Row="338" Col="7" ExprID="1"/>
-        <gnm:Cell Row="338" Col="8" ValueType="60">https://www.amazon.co.uk/dp/B0CLTTS8S2</gnm:Cell>
+        <gnm:Cell Row="338" Col="8" ValueType="60">https://www.amazon.co.uk/dp/B0097FVTW2</gnm:Cell>
         <gnm:Cell Row="339" Col="0" ValueType="60">ogx</gnm:Cell>
         <gnm:Cell Row="339" Col="1" ValueType="60">argan oil</gnm:Cell>
         <gnm:Cell Row="339" Col="2" ValueType="60">n</gnm:Cell>
@@ -3012,7 +3012,7 @@
         <gnm:Cell Row="346" Col="3" ValueType="60">n</gnm:Cell>
         <gnm:Cell Row="346" Col="4" ValueType="40">385</gnm:Cell>
         <gnm:Cell Row="346" Col="5" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="346" Col="6" ValueType="40">3.9900000000000002</gnm:Cell>
+        <gnm:Cell Row="346" Col="6" ValueType="40">3.7400000000000002</gnm:Cell>
         <gnm:Cell Row="346" Col="7" ExprID="1"/>
         <gnm:Cell Row="346" Col="8" ValueType="60">https://www.amazon.co.uk/dp/B00MXZJ362</gnm:Cell>
         <gnm:Cell Row="347" Col="0" ValueType="60">ogx</gnm:Cell>
@@ -4159,7 +4159,7 @@
         <gnm:Cell Row="558" Col="2" ValueType="60">?</gnm:Cell>
         <gnm:Cell Row="558" Col="3" ValueType="60">y</gnm:Cell>
       </gnm:Cells>
-      <gnm:SheetLayout TopLeft="A332">
+      <gnm:SheetLayout TopLeft="A329">
         <gnm:FreezePanes FrozenTopLeft="A1" UnfrozenTopLeft="A2"/>
       </gnm:SheetLayout>
       <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
